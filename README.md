@@ -6,8 +6,8 @@
 
 #FEATURES : Decentralized Network: A peer-to-peer carpooling platform based on blockchain operates on a decentralized network, eliminating the need for intermediaries.
 
-           Secure Transactions: The platform uses blockchain technology to secure and track transactions between users, ensuring the safety and transparency of financial transactions.
+          : Secure Transactions: The platform uses blockchain technology to secure and track transactions between users, ensuring the safety and transparency of financial transactions.
            
-           Smart Contracts: The platform can be powered by smart contracts, automatically executing the terms of a carpooling agreement without intermediaries.
+          : Smart Contracts: The platform can be powered by smart contracts, automatically executing the terms of a carpooling agreement without intermediaries.
            
-           Data Privacy: User data is protected by the immutable and secure nature of blockchain technology, ensuring privacy and security.
+          : Data Privacy: User data is protected by the immutable and secure nature of blockchain technology, ensuring privacy and security.
