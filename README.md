@@ -1,4 +1,7 @@
+
 # MCA-MAIN-PROJECT
+
+SIGNALING-Gesture Controlled Virtual Mouse.
 
 #ISSUE : Traditional camera-based hand gesture recognition faces accuracy issues under varying light, noise removal, image smoothing, and complex backgrounds. Using markers or gloves adds complexity and requires adjustments for different hand sizes.
 
