@@ -1,13 +1,14 @@
 # MCA-MAIN-PROJECT
 
-#ISSUE : Most carpooling systems currently available are in the control of agencies like Ola, Uber and several others. They pocess data of drivers as well as of customers and this can lead to major privacy issues. 
+#ISSUE : Traditional camera-based hand gesture recognition faces accuracy issues under varying light, noise removal, image smoothing, and complex backgrounds. Using markers or gloves adds complexity and requires adjustments for different hand sizes.
 
-#PROPOSED : This project therefore aims to move ride-sharing and car hire are to blockchain in order to build a much more secure and reliable carpooling system that would connect the rider and driver directly using "smart contracts" without the intervention of any third party.
+#PROPOSED : Signaling consists of two modules: One which works on recognizing and functioning on hand signals by making use of MediaPipe Hand detection, and other by recognizing the voice and to function.
 
-#FEATURES : Decentralized Network: A peer-to-peer carpooling platform based on blockchain operates on a decentralized network, eliminating the need for intermediaries.
 
-          : Secure Transactions: The platform uses blockchain technology to secure and track transactions between users, ensuring the safety and transparency of financial transactions.
+#FEATURES :Ten hand signal functions and eight voice recognition functions.
+
+          :In Signal recognition, use palm detector model,hand landmark model and gesture recognition model through Mediapipe framework.
+          
+          :Voice recognition includes speech recognition, Location finding, Google searching using pyautogui,  pynput.keyboard and so on.
            
-          : Smart Contracts: The platform can be powered by smart contracts, automatically executing the terms of a carpooling agreement without intermediaries.
-           
-          : Data Privacy: User data is protected by the immutable and secure nature of blockchain technology, ensuring privacy and security.
+          
