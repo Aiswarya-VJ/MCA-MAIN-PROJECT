@@ -10,7 +10,7 @@ SIGNALING-Gesture Controlled Virtual Mouse.
 
 #FEATURES :Ten hand signal functions and eight voice recognition functions.
 
-          :In Signal recognition, use palm detector model,hand landmark model and gesture recognition model through Mediapipe framework.
+          :In Signal recognition, used palm detector model,hand landmark model and gesture recognition model through Mediapipe framework.
           
           :Voice recognition includes speech recognition, Location finding, Google searching using pyautogui,  pynput.keyboard and so on.
            
